@@ -59,67 +59,67 @@ Performed using MySQL to ensure data is structured and analysis-ready.
 📈 Layoff Trends & Key Insights
 
 After cleaning and exploring the data, I dug deeper to uncover what the numbers were saying. 
-Here's a breakdown of the most notable patterns based on 1,288 layoff events recorded between 2020 and March 2025.
+Here's a breakdown of the most notable patterns based on **1,288 layoff events** recorded between **2020** and **March 2025**.
 
 🔢 General Stats
-- Total layoffs recorded: 440,030 employees
-- Largest single layoff event: 15,000 people
-- That means the average layoff per event is around 342 employees.
+- Total layoffs recorded: **440,030 employees**
+- Largest single layoff event: **15,000 people**
+- That means the average layoff per event is around **342 employees**.
 - These layoffs spanned various industries, countries, and company stages, with some clear patterns emerging.
 
 📆 When Did Layoffs Peak?
-- Layoffs hit their highest point in Q1 2023, with 167,574 employees laid off — that’s nearly 38% of the total dataset. 
-- The second-largest spike occurred a year later, in Q1 2024, with 57,269 layoffs, representing ~13%.
+- Layoffs hit their highest point in **Q1 2023**, with 167,574 employees laid off — that’s nearly **38%** of the total dataset. 
+- The second-largest spike occurred a year later, in **Q1 2024**, with 57,269 layoffs, representing **~13%.**
 - These two quarters alone account for over half of all layoffs recorded, likely reflecting major macroeconomic shifts, market corrections, or company-wide restructuring during those periods.
 
 🏢 Companies with the Most Layoff Events
 
 Some companies show a repeated pattern of downsizing.
-The top 5 with multiple rounds of layoffs are:
-- Google — 7 events
-- Amazon and Microsoft — 6 events each
-- Spotify and Cue Health — 5 events each
+The **top 5** with multiple rounds of layoffs are:
+- Google — **7 events**
+- Amazon and Microsoft — **6 events each**
+- Spotify and Cue Health — **5 events each**
 Even the biggest players weren’t spared — and some had to restructure more than once.
 
 📊 Total Laid Off by Company
 
 In terms of total employees affected:
-- Amazon leads with over 17,500 layoffs, representing nearly 4% of the dataset.
+- Amazon leads with **over 17,500 layoffs**, representing nearly **4% of the dataset.**
 - Microsoft, Meta, and Google follow, but with lower totals.
 
 📍 Where Were the Layoffs Concentrated?
 
-The San Francisco Bay Area saw the largest impact, with more than 145,000 layoffs — that’s roughly 33% of the global total. 
+The San Francisco Bay Area saw the largest impact, with more than **145,000 layoffs** — that’s roughly **33%** of the global total. 
 A clear indicator of how concentrated layoffs were in tech-heavy regions.
 
 🏭 Industry Breakdown
-Top 5 most-affected industries:
-- Hardware
-- Consumer
-- Retail
-- Transportation
-- Finance
-These five sectors alone make up over 60% of all layoffs — industries that are often heavily reliant on funding, scaling, and operational efficiency.
+**Top 5 most-affected industries:**
+**- Hardware**
+**- Consumer**
+**- Retail**
+**- Transportation**
+**- Finance**
+These five sectors alone make up over **60% of all layoffs** — industries that are often heavily reliant on funding, scaling, and operational efficiency.
 
 🌍 Country Breakdown
 
-The United States accounts for more than 300,000 layoffs, or about 68% of the total. 
+The **United States** accounts for **more than 300,000** layoffs, or about **68%** of the total. 
 Layoffs in other countries are far lower in comparison, showing the U.S.'s central role in this trend, especially in tech.
 
 🚀 Stage of Company
 
-Companies in the post-IPO stage laid off the most employees, followed by those in later funding stages. 
-At the other end, Series I startups saw the fewest layoffs, likely due to smaller team sizes and lower burn rates.
+Companies in the **post-IPO stage** laid off the most employees, followed by those in later funding stages. 
+At the other end, **Series I startups** saw the fewest layoffs, likely due to smaller team sizes and lower burn rates.
 
 📝 TL;DR Summary
 
-📌 1,288 events — 440K layoffs
+**📌 1,288 events — 440K layoffs
 🏆 Amazon laid off the most; Google had the most layoff rounds
 🌁 SF Bay Area alone: 145K+ layoffs (33%)
 🗓️ Q1 2023: 167K+ layoffs; Q1 2024: 57K+
 🏭 Top sectors hit: Hardware, Consumer, Retail
 🇺🇸 US accounts for 68% of global layoffs
-💼 Post-IPO companies had the highest total layoffs
+💼 Post-IPO companies had the highest total layoffs**
 
 ---
 
