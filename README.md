@@ -81,6 +81,7 @@ The **top 5** with multiple rounds of layoffs are:
 - Google — **7 events**
 - Amazon and Microsoft — **6 events each**
 - Spotify and Cue Health — **5 events each**
+
 Even the biggest players weren’t spared — and some had to restructure more than once.
 
 **📊 Total Laid Off by Company**
