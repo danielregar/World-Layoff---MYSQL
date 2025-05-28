@@ -57,6 +57,7 @@ Performed using MySQL to ensure data is structured and analysis-ready.
 ## 📊 Exploratory Data Analysis (EDA)
 
 📈 Layoff Trends & Key Insights
+
 After cleaning and exploring the data, I dug deeper to uncover what the numbers were saying. 
 Here's a breakdown of the most notable patterns based on 1,288 layoff events recorded between 2020 and March 2025.
 
