@@ -73,6 +73,7 @@ Here's a breakdown of the most notable patterns based on 1,288 layoff events rec
 - These two quarters alone account for over half of all layoffs recorded, likely reflecting major macroeconomic shifts, market corrections, or company-wide restructuring during those periods.
 
 🏢 Companies with the Most Layoff Events
+
 Some companies show a repeated pattern of downsizing.
 The top 5 with multiple rounds of layoffs are:
 - Google — 7 events
@@ -81,11 +82,13 @@ The top 5 with multiple rounds of layoffs are:
 Even the biggest players weren’t spared — and some had to restructure more than once.
 
 📊 Total Laid Off by Company
+
 In terms of total employees affected:
 - Amazon leads with over 17,500 layoffs, representing nearly 4% of the dataset.
 - Microsoft, Meta, and Google follow, but with lower totals.
 
 📍 Where Were the Layoffs Concentrated?
+
 The San Francisco Bay Area saw the largest impact, with more than 145,000 layoffs — that’s roughly 33% of the global total. 
 A clear indicator of how concentrated layoffs were in tech-heavy regions.
 
@@ -99,26 +102,23 @@ Top 5 most-affected industries:
 These five sectors alone make up over 60% of all layoffs — industries that are often heavily reliant on funding, scaling, and operational efficiency.
 
 🌍 Country Breakdown
+
 The United States accounts for more than 300,000 layoffs, or about 68% of the total. 
 Layoffs in other countries are far lower in comparison, showing the U.S.'s central role in this trend, especially in tech.
 
 🚀 Stage of Company
+
 Companies in the post-IPO stage laid off the most employees, followed by those in later funding stages. 
 At the other end, Series I startups saw the fewest layoffs, likely due to smaller team sizes and lower burn rates.
 
 📝 TL;DR Summary
+
 📌 1,288 events — 440K layoffs
-
 🏆 Amazon laid off the most; Google had the most layoff rounds
-
 🌁 SF Bay Area alone: 145K+ layoffs (33%)
-
 🗓️ Q1 2023: 167K+ layoffs; Q1 2024: 57K+
-
 🏭 Top sectors hit: Hardware, Consumer, Retail
-
 🇺🇸 US accounts for 68% of global layoffs
-
 💼 Post-IPO companies had the highest total layoffs
 
 ---
