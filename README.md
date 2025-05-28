@@ -98,11 +98,17 @@ A clear indicator of how concentrated layoffs were in tech-heavy regions.
 **🏭 Industry Breakdown**
 
 **Top 5 most-affected industries:**
+
 **- Hardware**
+
 **- Consumer**
+
 **- Retail**
+
 **- Transportation**
+
 **- Finance**
+
 These five sectors alone make up over **60% of all layoffs** — industries that are often heavily reliant on funding, scaling, and operational efficiency.
 
 **🌍 Country Breakdown**
