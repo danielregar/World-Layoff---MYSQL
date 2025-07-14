@@ -1,4 +1,4 @@
-# 🧼 Layoffs Data Cleaning & Analysis (MYSQL Project)
+# 🧼 Layoffs Data Cleaning & Analysis 
 
 This project focuses on cleaning and analyzing a real-world dataset of global tech and non-tech layoffs from **2023 to March 2025**. The original dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/happyude/world-layoffs?select=layoffs.csv) and contains raw records with inconsistencies, missing values, and formatting issues.
 
